@@ -1,0 +1,192 @@
+1:"$Sreact.fragment"
+3:I[4022,["235","static/chunks/235-60f7bddebd3db3cc.js","177","static/chunks/app/layout-24df8ad3b77b9c41.js"],"default"]
+4:I[5430,[],""]
+5:I[5020,[],""]
+6:I[6235,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-bdbb613691bd50ee.js"],""]
+8:I[8606,[],"MetadataBoundary"]
+a:I[8606,[],"OutletBoundary"]
+d:I[1534,[],"AsyncMetadataOutlet"]
+f:I[8606,[],"ViewportBoundary"]
+11:I[5473,[],""]
+:HL["/fussball-statistik/_next/static/css/2a4ccbedf12a3e06.css","style"]
+2:T787,
+(function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".split(" ");a.get_group=function(){function b(c){d[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));a.push([e,call2])}}for(var d={},e=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<j.length;c++)b(j[c]);return d};b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^///)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
+mixpanel.init("1e4c480d84cd0fd22031ffc141447183");
+mixpanel.register({site_name: "Fußball Statistik"});
+mixpanel.track_pageview();
+            0:{"P":null,"b":"cisPZjtSFXfuNOPrUVPfX","p":"/fussball-statistik","c":["","blog","xg-expected-goals-erklaert",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","xg-expected-goals-erklaert","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fussball-statistik/_next/static/css/2a4ccbedf12a3e06.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"antialiased","style":{"backgroundColor":"#FAFAF7"},"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center px-4","children":["$","div",null,{"className":"text-center","children":[["$","span",null,{"className":"text-8xl font-black text-[rgba(255,255,255,0.06)] block mb-4","children":"404"}],["$","h1",null,{"className":"text-2xl font-bold text-white mb-3 tracking-tight","children":"Seite nicht gefunden"}],["$","p",null,{"className":"text-[#64748b] mb-8 max-w-sm mx-auto","children":"Die gesuchte Seite existiert nicht oder wurde verschoben."}],["$","div",null,{"className":"flex flex-wrap gap-3 justify-center","children":[["$","$L6",null,{"href":"/","className":"btn-primary","children":"Zur Startseite"}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-ghost","children":"Atlas Markets"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-24 border-t border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":["$","div",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-3 gap-10 mb-10","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-serif text-[1rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Fußball Statistik"}],["$","p",null,{"className":"text-xs leading-relaxed","style":{"color":"#6B7280"},"children":"Expertenwissen zu Fußball-Prediction Markets und Sportwetten."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Netzwerk"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","https://atlasmarkets.de",{"children":["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Markets"}]}],["$","li","https://ohne-lugas.de",{"children":["$","a",null,{"href":"https://ohne-lugas.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Ohne Lugas"}]}],["$","li","https://fussball-prognose.de",{"children":["$","a",null,{"href":"https://fussball-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Vorhersage"}]}],["$","li","https://slay-cicd.github.io/atlas-insights",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/atlas-insights","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Insights"}]}],["$","li","https://transfermarkt-prognosen.de",{"children":["$","a",null,{"href":"https://transfermarkt-prognosen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Transfermarkt Prognosen"}]}],["$","li","https://bundesliga-prediction.de",{"children":["$","a",null,{"href":"https://bundesliga-prediction.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Bundesliga Prognose"}]}],["$","li","https://spieltag-vorhersage.de",{"children":["$","a",null,{"href":"https://spieltag-vorhersage.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Spieltag Vorhersage"}]}],["$","li","https://aufsteiger-prognose.de",{"children":["$","a",null,{"href":"https://aufsteiger-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Aufsteiger Prognose"}]}],["$","li","https://derby-analyse.de",{"children":["$","a",null,{"href":"https://derby-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Derby Analyse"}]}],["$","li","https://torjaeger-ranking.de",{"children":["$","a",null,{"href":"https://torjaeger-ranking.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Torjäger Ranking"}]}],["$","li","https://trainerwechsel-analyse.de",{"children":["$","a",null,{"href":"https://trainerwechsel-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Trainerwechsel Analyse"}]}],["$","li","https://talente-radar.de",{"children":["$","a",null,{"href":"https://talente-radar.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Talente Radar"}]}],["$","li","https://champions-league-analyse.de",{"children":["$","a",null,{"href":"https://champions-league-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Champions League Analyse"}]}],["$","li","https://europa-league-prognose.de",{"children":["$","a",null,{"href":"https://europa-league-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Europa League Prognose"}]}],["$","li","https://em-prognose.de",{"children":["$","a",null,{"href":"https://em-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"EM Prognose"}]}],["$","li","https://dfb-pokal-analyse.de",{"children":["$","a",null,{"href":"https://dfb-pokal-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"DFB Pokal Analyse"}]}],["$","li","https://wm-vorhersagen.de",{"children":["$","a",null,{"href":"https://wm-vorhersagen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"WM Vorhersagen"}]}],["$","li","https://polymarket-alternative.de",{"children":["$","a",null,{"href":"https://polymarket-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Alternative"}]}],["$","li","https://polymarket-deutschland.de",{"children":["$","a",null,{"href":"https://polymarket-deutschland.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Deutschland"}]}],["$","li","https://kalshi-alternative.de",{"children":["$","a",null,{"href":"https://kalshi-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Kalshi Alternative"}]}],["$","li","https://prediction-market-guide.de",{"children":["$","a",null,{"href":"https://prediction-market-guide.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Guide"}]}],["$","li","https://prediction-market-vergleich.de",{"children":["$","a",null,{"href":"https://prediction-market-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Vergleich"}]}],["$","li","https://prognosemarkt.org",{"children":["$","a",null,{"href":"https://prognosemarkt.org","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prognosemarkt"}]}],["$","li","https://mein-prognosemarkt.de",{"children":["$","a",null,{"href":"https://mein-prognosemarkt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Mein Prognosemarkt"}]}],["$","li","https://vorhersage-markt.de",{"children":["$","a",null,{"href":"https://vorhersage-markt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Vorhersage Markt"}]}],["$","li","https://slay-cicd.github.io/fussball-finanzen",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/fussball-finanzen","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Finanzen"}]}],["$","li","https://fussball-trading.de",{"children":["$","a",null,{"href":"https://fussball-trading.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Trading"}]}],["$","li","https://fussball-quoten.de",{"children":["$","a",null,{"href":"https://fussball-quoten.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Quoten"}]}],["$","li","https://wettmarkt-vergleich.de",{"children":["$","a",null,{"href":"https://wettmarkt-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Wettmarkt Vergleich"}]}],["$","li","https://sportwetten-alternative.de",{"children":["$","a",null,{"href":"https://sportwetten-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Sportwetten Alternative"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Rechtliches"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L6",null,{"href":"/impressum","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Impressum"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/datenschutz","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Datenschutz"}]}]]}]]}]]}],["$","div",null,{"className":"divider mb-6"}],["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-3","children":[["$","p",null,{"className":"text-xs","style":{"color":"#9CA3AF"},"children":["© ",2026," ","SLAY GmbH",". Alle Rechte vorbehalten."]}],["$","p",null,{"className":"text-xs text-center","style":{"color":"#9CA3AF"},"children":"18+ | Glücksspiel kann süchtig machen. Spiel verantwortungsbewusst."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs font-medium hover:text-[#15803d] transition-colors duration-200","style":{"color":"#16a34a"},"children":"atlasmarkets.de"}]]}]]}]}]]}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","xg-expected-goals-erklaert","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","aMH97VoRs35rVfk4Jl1PV",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[1534,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+16:I[7191,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-bdbb613691bd50ee.js"],"default"]
+15:T24ef,<h2>Was sind Expected Goals – und warum verändert xG alles?</h2>
+<p>Seit gut einem Jahrzehnt hat eine einzige Zahl die Art, wie wir Fußball verstehen, revolutioniert: <strong>Expected Goals</strong>, kurz xG. Kaum eine andere Kennzahl wird so häufig diskutiert, so selten wirklich verstanden – und bietet gleichzeitig so viel Potenzial für datengetriebene Vorhersagen auf <a href="https://atlasmarkets.de">Atlas Markets</a>.</p>
+<p>In diesem Artikel zerlegen wir xG komplett: Wie wird es berechnet? Warum ist es aussagekräftiger als reine Torzahlen? Und wie nutzen professionelle Prediction-Trader die Metrik, um Marktineffizienzen zu finden?</p>
+<hr>
+<h2>Die Grundidee hinter Expected Goals</h2>
+<p>Jede Torchance im Fußball hat eine bestimmte Wahrscheinlichkeit, im Tor zu landen. Ein Elfmeter liegt statistisch bei etwa <strong>77%</strong> – ein Kopfball aus 20 Metern dagegen kaum über <strong>2%</strong>. Expected Goals summiert diese Wahrscheinlichkeiten über alle Chancen eines Teams in einem Spiel auf.</p>
+<p><strong>Beispiel:</strong></p>
+<ul>
+<li>Team A schießt 12 Mal, summt xG = 2,4</li>
+<li>Team B schießt 5 Mal, summt xG = 0,7</li>
+<li>Ergebnis: 1:2 für Team B</li>
+</ul>
+<p>Was sagt uns das? Team A hat die klar bessere Leistung gezeigt. Das Ergebnis ist ein statistischer Ausreißer. Langfristig wird Team A mehr Spiele gewinnen – und der Markt wird das irgendwann einpreisen.</p>
+<h3>Was fließt in die xG-Berechnung ein?</h3>
+<p>Moderne xG-Modelle berücksichtigen eine Vielzahl von Faktoren:</p>
+<table>
+<thead>
+<tr>
+<th>Faktor</th>
+<th>Einfluss auf xG</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Schussdistanz</td>
+<td>Sehr hoch – je näher, desto höher</td>
+</tr>
+<tr>
+<td>Schusswinkel</td>
+<td>Hoch – zentrale Positionen bevorzugt</td>
+</tr>
+<tr>
+<td>Spielsituation</td>
+<td>Mittel – Freistoß, Einwurf, Konter etc.</td>
+</tr>
+<tr>
+<td>Körperteil</td>
+<td>Mittel – Fuß vs. Kopf</td>
+</tr>
+<tr>
+<td>Vorangegangene Aktion</td>
+<td>Mittel – Dribbling, Flanke, Direktabnahme</td>
+</tr>
+<tr>
+<td>Gegnerischer Torwart</td>
+<td>Niedrig (in Basis-Modellen oft ignoriert)</td>
+</tr>
+<tr>
+<td>Druck durch Abwehrspieler</td>
+<td>Hoch in Post-Shot-Modellen</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>xG vs. Tore: Warum Ergebnisse lügen</h2>
+<p>Der entscheidende Vorteil von xG gegenüber einfachen Torzahlen ist seine <strong>Robustheit gegen Varianz</strong>. Fußball hat eine enorm hohe Zufallskomponente – Pfosten, Glanzparaden, Schiedsrichterentscheidungen. xG filtert dieses Rauschen heraus.</p>
+<h3>Ein konkretes Beispiel: Bayer Leverkusen 2023/24</h3>
+<p>In ihrer ungeschlagenen Meistersaison hatte Bayer Leverkusen eine xG von etwa 71 – und erzielte 89 echte Tore. Das bedeutet: Sie übertrafen ihre xG um <strong>+18 Tore</strong>. Ein Teil davon ist Qualität (Granit Xhaka, Florian Wirtz), aber ein Teil ist auch pure Effizienz, die statistisch kaum zu wiederholen ist.</p>
+<p>Wer diesen Effekt verstand, konnte auf Leverkusen-Märkte mit entsprechend eingepreisten hohen Quoten intelligenter reagieren – denn die Regression zur Mitte kommt früher oder später.</p>
+<hr>
+<h2>xGA und xGD: Der komplette Blick auf ein Team</h2>
+<p>xG allein ist nur die halbe Geschichte. Für ein vollständiges Bild brauchst du:</p>
+<ul>
+<li><strong>xGA (Expected Goals Against)</strong>: Wie viele Tore hätte die Gegner statistisch erzielen sollen? Misst die defensive Qualität – unabhängig davon, wie gut der eigene Torwart gerettet hat.</li>
+<li><strong>xGD (Expected Goal Difference)</strong>: xG minus xGA. Der wichtigste Einzelwert für die Teamqualität.</li>
+</ul>
+<p>Ein Team mit <strong>xGD von +1,5 pro Spiel</strong> gehört zur absoluten Ligaelite – egal was die Tabelle gerade sagt.</p>
+<h3>Bundesliga xGD-Orientierungswerte (historische Richtwerte)</h3>
+<table>
+<thead>
+<tr>
+<th>xGD pro Spiel</th>
+<th>Liga-Niveau</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>> +1,5</td>
+<td>Meisterkandidaten (Bayern, Leverkusen-Klasse)</td>
+</tr>
+<tr>
+<td>+0,5 bis +1,5</td>
+<td>Stabiler Top-6-Bereich</td>
+</tr>
+<tr>
+<td>0 bis +0,5</td>
+<td>Mittelfeld, Europaplatz möglich</td>
+</tr>
+<tr>
+<td>-0,5 bis 0</td>
+<td>Abstiegsgefährdet bei schlechter Effizienz</td>
+</tr>
+<tr>
+<td>&#x3C; -0,5</td>
+<td>Klarer Abstiegskandidat</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Post-Shot xG: Der nächste Schritt</h2>
+<p>Standard-xG bewertet nur die Schussposition <em>vor</em> dem Schuss. <strong>Post-Shot xG (PSxG)</strong> geht einen Schritt weiter und bewertet auch die Güte des Schusses selbst – Platzierung, Schusshärte, Bewegung des Balls.</p>
+<p>Das führt zu einem wichtigen Konzept: <strong>Torwart-Mehrwert (Goals Saved Above Expected, GSAE)</strong>:</p>
+<pre><code>GSAE = PSxGA − tatsächliche Gegentore
+</code></pre>
+<p>Ein Torwart mit GSAE = +8 in einer Saison spart seinem Team fast drei Punkte. Auf Atlas Markets sind Torwart-Injuries und -Wechsel daher regelmäßig preisbewegende Ereignisse – wenn du weißt, wie du sie bewerten sollst.</p>
+<hr>
+<h2>xG in der Praxis: Ineffizienzen auf Prediction Markets finden</h2>
+<p>Wie nutzt du xG konkret auf <a href="https://atlasmarkets.de">Atlas Markets</a>? Hier ist ein strukturierter Ansatz:</p>
+<h3>Schritt 1: xG-Divergenz identifizieren</h3>
+<p>Suche Teams, bei denen Ergebnisse und xG stark auseinanderklaffen:</p>
+<ul>
+<li><strong>Overperformer</strong>: Viele Tore, aber niedrige xG → Regression droht</li>
+<li><strong>Underperformer</strong>: Wenige Tore, aber hohe xG → Kurskorrektur wahrscheinlich</li>
+</ul>
+<h3>Schritt 2: Marktpreise prüfen</h3>
+<p>Reflektiert der aktuelle Marktpreis die tatsächliche Stärke des Teams? Märkte reagieren oft zu langsam auf xG-Divergenzen, weil die meisten Teilnehmer auf Ergebnisse schauen, nicht auf Chancenqualität.</p>
+<h3>Schritt 3: Sample Size beachten</h3>
+<p>Nach 3 Spielen ist xG noch statistisches Rauschen. Nach 10+ Spielen beginnt ein echter Trend. Als Faustregel gilt: <strong>Erst ab Spieltag 8-10 werden xG-Muster wirklich verlässlich</strong>.</p>
+<h3>Schritt 4: Kontextfaktoren überprüfen</h3>
+<ul>
+<li>Hat das Team seinen besten Stürmer verloren? Dann ist hohes xG weniger wert.</li>
+<li>Neuer Trainer mit anderem System? xG-Daten aus der Vorsaison verlieren Relevanz.</li>
+<li>Gegner mit sehr guten Torhütern? PSxG gibt bessere Insights.</li>
+</ul>
+<hr>
+<h2>Häufige Missverständnisse über xG</h2>
+<h3>"xG ist zu abstrakt – echte Tore zählen"</h3>
+<p>Ja, auf dem Platz zählen echte Tore. Aber für <strong>Prognosen</strong> über zukünftige Leistungen ist xG deutlich aussagekräftiger als vergangene Ergebnisse. Das ist durch dutzende statistische Studien belegt.</p>
+<h3>"Messi hat immer xG übertroffen – ist er also kein guter Spieler?"</h3>
+<p>Nein. xG unterschätzt systematisch außergewöhnliche Finisher, weil sie Schüsse aus Winkeln und Distanzen treffen, die statistisch selten sind. Der Punkt ist: Solche Spieler sind selten, und wenn du nicht sicher weißt, dass ein Team so jemanden hat, solltest du mit der Masse gehen.</p>
+<h3>"xG ist zu einfach"</h3>
+<p>Moderne xG-Modelle von StatsBomb oder Opta sind hochkomplexe Machine-Learning-Systeme mit über 50 Eingangsvariablen. Sie sind alles andere als simpel.</p>
+<hr>
+<h2>Die besten Quellen für xG-Daten</h2>
+<p>Für deine eigene Analyse brauchst du zuverlässige Datenquellen:</p>
+<p><strong>Kostenlos:</strong></p>
+<ul>
+<li><strong>Understat.com</strong> – xG für Bundesliga, Premier League, Champions League</li>
+<li><strong>FBRef.com</strong> – erweiterte Metriken, PSxG, GSAE für Torhüter</li>
+<li><strong>Sofascore</strong> – xG live und für Einzelspieler</li>
+</ul>
+<p><strong>Professionell:</strong></p>
+<ul>
+<li><strong>StatsBomb</strong> – Branchenführer, Daten für alle Top-Ligen</li>
+<li><strong>Opta</strong> – offizielle Datenlizenz für viele Medien</li>
+<li><strong>Wyscout</strong> – beliebt bei Scouts, xG auf Spielerebene</li>
+</ul>
+<hr>
+<h2>xG und die Zukunft der Fußball-Statistik</h2>
+<p>xG ist nicht das Ende der Datenrevolution – es ist der Anfang. Aktuell entwickelt sich das Feld rasant weiter:</p>
+<p><strong>Expected Assists (xA)</strong>: Misst die Qualität von Vorlagen unabhängig davon, ob der Schuss getroffen wurde.</p>
+<p><strong>Expected Threat (xT)</strong>: Bewertet nicht nur Schüsse, sondern jede ballbesitzende Aktion nach ihrem Beitrag zur Torwahrscheinlichkeit – Pässe, Dribblings, Läufe.</p>
+<p><strong>VAEP (Valuing Actions by Estimating Probabilities)</strong>: Ein KI-basiertes Modell, das jede Aktion auf dem Feld bewertet.</p>
+<p>Diese Metriken werden zunehmend von Vereinen genutzt – und ihr Einfluss auf Marktpreise wird auf Plattformen wie Atlas Markets immer spürbarer.</p>
+<hr>
+<h2>Fazit: xG ist dein Vorteil</h2>
+<p>Wer Expected Goals wirklich versteht und konsequent anwendet, hat einen messbaren Informationsvorsprung gegenüber reaktiven Markteilnehmern, die nur auf Ergebnisse schauen.</p>
+<p>Das Rezept:</p>
+<ol>
+<li>Identifiziere xG-Divergenzen frühzeitig</li>
+<li>Prüfe, ob der Markt diese bereits eingepreist hat</li>
+<li>Handle konträr – aber diszipliniert und mit passendem Positionsmanagement</li>
+<li>Tracke deine Ergebnisse über mindestens 50+ Entscheidungen</li>
+</ol>
+<p>Auf <strong><a href="https://atlasmarkets.de">Atlas Markets</a></strong> findest du die liquidesten Bundesliga- und Champions-League-Märkte Deutschlands – der ideale Ort, um dein datengetriebenes Modell in die Praxis umzusetzen.</p>
+7:[["$","div",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pt-[100px] pb-10","children":[["$","nav",null,{"className":"flex items-center gap-2 text-xs mb-10","aria-label":"Breadcrumb","style":{"color":"#9CA3AF"},"children":[["$","$L6",null,{"href":"/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Fußball Statistik"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L6",null,{"href":"/blog/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Artikel"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"className":"truncate max-w-[200px]","style":{"color":"#6B7280"},"children":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","xG",{"className":"tag-pill","children":"xG"}],["$","span","analyse",{"className":"tag-pill","children":"analyse"}],["$","span","bundesliga",{"className":"tag-pill","children":"bundesliga"}]]}],["$","h1",null,{"className":"font-serif text-[2.25rem] sm:text-[2.75rem] font-bold tracking-tight leading-[1.2] mb-6","style":{"color":"#1A1A1A"},"children":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase mb-8","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit",[["$","span",null,{"className":"mx-2","children":"·"}],"Redaktion"]]}],["$","div",null,{"className":"divider"}]]}],["$","article",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pb-20","children":[["$","p",null,{"className":"text-[1.125rem] leading-relaxed mb-10 border-l-[3px] border-[#16a34a] pl-5","style":{"color":"#6B7280","fontFamily":"var(--font-serif, Georgia, serif)","fontStyle":"italic"},"children":"Was steckt hinter Expected Goals? Wir erklären xG, xGA und xGD von Grund auf – und zeigen, wie du diese Metriken auf Atlas Markets gewinnbringend einsetzen kannst."}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","div",null,{"className":"mt-14 divider"}],["$","div",null,{"className":"mt-10 rounded-lg p-8 text-center border border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":[["$","p",null,{"className":"font-serif text-[1.125rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Bereit, dein Wissen einzusetzen?"}],["$","p",null,{"className":"text-sm mb-6","style":{"color":"#6B7280"},"children":"Auf Atlas Markets kannst du auf Fußball-Prediction Markets handeln."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-primary","children":"Zu Atlas Markets →"}]]}]]}],["$","section",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 pb-24","children":[["$","$L16",null,{"children":[["$","div",null,{"className":"divider mb-12"}],["$","div",null,{"className":"flex items-end justify-between mb-10","children":[["$","h2",null,{"className":"font-serif text-[1.5rem] font-bold tracking-tight","style":{"color":"#1A1A1A"},"children":"Ähnliche Artikel"}],["$","$L6",null,{"href":"/blog/","className":"text-sm text-[#16a34a] hover:text-[#15803d] transition-colors duration-200","children":"Alle Artikel →"}]]}]]}],["$","$L16",null,{"stagger":true,"children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10","children":[["$","article","bundesliga-tordifferenz-tabellenplatz-korrelation",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/bundesliga-tordifferenz-tabellenplatz-korrelation/","className":"group block","aria-label":"Artikel lesen: Tordifferenz und Tabellenplatz: Die stärkste Korrelation im Bundesliga-Fußball","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","bundesliga",{"className":"tag-pill","children":"bundesliga"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Tordifferenz und Tabellenplatz: Die stärkste Korrelation im Bundesliga-Fußball"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Kein Faktor sagt den Bundesliga-Tabellenplatz am Saisonende besser vorher als die Tordifferenz – nicht mal Punkte. Wir erklären warum, und wie Prediction-Trader das auf Atlas Markets nutzen können."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}],["$","article","expected-points-tabellen-luegen",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/expected-points-tabellen-luegen/","className":"group block","aria-label":"Artikel lesen: Expected Points (xPTS): Warum die Bundesliga-Tabelle oft lügt","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","expected points",{"className":"tag-pill","children":"expected points"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Expected Points (xPTS): Warum die Bundesliga-Tabelle oft lügt"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Die offizielle Bundesliga-Tabelle zeigt Ergebnisse – nicht Leistungen. Expected Points (xPTS) deckt auf, welche Teams übersportlich gut abschneiden und welche auf eine Regression warten. Ideal für Prediction-Market-Analyse."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}],["$","article","pressing-statistiken-ppda-analyse",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/pressing-statistiken-ppda-analyse/","className":"group block","aria-label":"Artikel lesen: Pressing-Statistiken im Fußball: PPDA, Gegenpressing und was die Daten wirklich sagen","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","taktik",{"className":"tag-pill","children":"taktik"}],["$","span","pressing",{"className":"tag-pill","children":"pressing"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Pressing-Statistiken im Fußball: PPDA, Gegenpressing und was die Daten wirklich sagen"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"PPDA, Pressing-Intensität, Gegenpressing-Effizienz: Wir erklären die wichtigsten Statistiken rund ums Pressing – und wie du sie für präzisere Vorhersagen auf Atlas Markets nutzt."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}]]}]}]]}]]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail | Fußball Statistik"}],["$","meta","1",{"name":"description","content":"Was steckt hinter Expected Goals? Wir erklären xG, xGA und xGD von Grund auf – und zeigen, wie du diese Metriken auf Atlas Markets gewinnbringend einsetzen kannst."}],["$","meta","2",{"name":"author","content":"SLAY GmbH"}],["$","meta","3",{"name":"keywords","content":"Prediction Markets,Fußball Wetten,Sportwetten,Wettmarkt,Atlas Markets,Bundesliga"}],["$","meta","4",{"name":"creator","content":"SLAY GmbH"}],["$","meta","5",{"name":"publisher","content":"SLAY GmbH"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","8",{"rel":"canonical","href":"https://slay-cicd.github.io/fussball-statistik/blog/xg-expected-goals-erklaert/"}],["$","meta","9",{"property":"og:title","content":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}],["$","meta","10",{"property":"og:description","content":"Was steckt hinter Expected Goals? Wir erklären xG, xGA und xGD von Grund auf – und zeigen, wie du diese Metriken auf Atlas Markets gewinnbringend einsetzen kannst."}],["$","meta","11",{"property":"og:url","content":"https://slay-cicd.github.io/fussball-statistik/blog/xg-expected-goals-erklaert/"}],["$","meta","12",{"property":"og:image","content":"https://slay-cicd.github.io/fussball-statistik/og-image.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}],["$","meta","19",{"name":"twitter:description","content":"Was steckt hinter Expected Goals? Wir erklären xG, xGA und xGD von Grund auf – und zeigen, wie du diese Metriken auf Atlas Markets gewinnbringend einsetzen kannst."}],["$","meta","20",{"name":"twitter:image","content":"https://slay-cicd.github.io/fussball-statistik/og-image.png"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","meta","23",{"name":"twitter:image:alt","content":"Expected Goals (xG) erklärt: Die wichtigste Fußball-Statistik im Detail"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}

@@ -1,0 +1,206 @@
+1:"$Sreact.fragment"
+3:I[4022,["235","static/chunks/235-60f7bddebd3db3cc.js","177","static/chunks/app/layout-24df8ad3b77b9c41.js"],"default"]
+4:I[5430,[],""]
+5:I[5020,[],""]
+6:I[6235,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-bdbb613691bd50ee.js"],""]
+8:I[8606,[],"MetadataBoundary"]
+a:I[8606,[],"OutletBoundary"]
+d:I[1534,[],"AsyncMetadataOutlet"]
+f:I[8606,[],"ViewportBoundary"]
+11:I[5473,[],""]
+:HL["/fussball-statistik/_next/static/css/2a4ccbedf12a3e06.css","style"]
+2:T787,
+(function(f,b){if(!b.__SV){var e,g,i,h;window.mixpanel=b;b._i=[];b.init=function(e,f,c){function g(a,d){var b=d.split(".");2==b.length&&(a=a[b[0]],d=b[1]);a[d]=function(){a.push([d].concat(Array.prototype.slice.call(arguments,0)))}}var a=b;"undefined"!==typeof c?a=b[c]=[]:c="mixpanel";a.people=a.people||[];a.toString=function(a){var d="mixpanel";"mixpanel"!==c&&(d+="."+c);a||(d+=" (stub)");return d};a.people.toString=function(){return a.toString(1)+".people (stub)"};i="disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split(" ");for(h=0;h<i.length;h++)g(a,i[h]);var j="set set_once union unset remove delete".split(" ");a.get_group=function(){function b(c){d[c]=function(){call2_args=arguments;call2=[c].concat(Array.prototype.slice.call(call2_args,0));a.push([e,call2])}}for(var d={},e=["get_group"].concat(Array.prototype.slice.call(arguments,0)),c=0;c<j.length;c++)b(j[c]);return d};b._i.push([e,f,c])};b.__SV=1.2;e=f.createElement("script");e.type="text/javascript";e.async=!0;e.src="undefined"!==typeof MIXPANEL_CUSTOM_LIB_URL?MIXPANEL_CUSTOM_LIB_URL:"file:"===f.location.protocol&&"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^///)?"https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js":"//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js";g=f.getElementsByTagName("script")[0];g.parentNode.insertBefore(e,g)}})(document,window.mixpanel||[]);
+mixpanel.init("1e4c480d84cd0fd22031ffc141447183");
+mixpanel.register({site_name: "Fußball Statistik"});
+mixpanel.track_pageview();
+            0:{"P":null,"b":"cisPZjtSFXfuNOPrUVPfX","p":"/fussball-statistik","c":["","blog","torwart-statistiken-gsae-analyse",""],"i":false,"f":[[["",{"children":["blog",{"children":[["slug","torwart-statistiken-gsae-analyse","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/fussball-statistik/_next/static/css/2a4ccbedf12a3e06.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"de","children":[["$","head",null,{"children":[["$","link",null,{"rel":"preconnect","href":"https://fonts.googleapis.com"}],["$","link",null,{"rel":"preconnect","href":"https://fonts.gstatic.com","crossOrigin":"anonymous"}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"$2"}}]]}],["$","body",null,{"className":"antialiased","style":{"backgroundColor":"#FAFAF7"},"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex items-center justify-center px-4","children":["$","div",null,{"className":"text-center","children":[["$","span",null,{"className":"text-8xl font-black text-[rgba(255,255,255,0.06)] block mb-4","children":"404"}],["$","h1",null,{"className":"text-2xl font-bold text-white mb-3 tracking-tight","children":"Seite nicht gefunden"}],["$","p",null,{"className":"text-[#64748b] mb-8 max-w-sm mx-auto","children":"Die gesuchte Seite existiert nicht oder wurde verschoben."}],["$","div",null,{"className":"flex flex-wrap gap-3 justify-center","children":[["$","$L6",null,{"href":"/","className":"btn-primary","children":"Zur Startseite"}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-ghost","children":"Atlas Markets"}]]}]]}]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"mt-24 border-t border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":["$","div",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 py-12","children":[["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-3 gap-10 mb-10","children":[["$","div",null,{"children":[["$","p",null,{"className":"font-serif text-[1rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Fußball Statistik"}],["$","p",null,{"className":"text-xs leading-relaxed","style":{"color":"#6B7280"},"children":"Expertenwissen zu Fußball-Prediction Markets und Sportwetten."}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Netzwerk"}],["$","ul",null,{"className":"space-y-2","children":[["$","li","https://atlasmarkets.de",{"children":["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Markets"}]}],["$","li","https://ohne-lugas.de",{"children":["$","a",null,{"href":"https://ohne-lugas.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Ohne Lugas"}]}],["$","li","https://fussball-prognose.de",{"children":["$","a",null,{"href":"https://fussball-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Vorhersage"}]}],["$","li","https://slay-cicd.github.io/atlas-insights",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/atlas-insights","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Atlas Insights"}]}],["$","li","https://transfermarkt-prognosen.de",{"children":["$","a",null,{"href":"https://transfermarkt-prognosen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Transfermarkt Prognosen"}]}],["$","li","https://bundesliga-prediction.de",{"children":["$","a",null,{"href":"https://bundesliga-prediction.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Bundesliga Prognose"}]}],["$","li","https://spieltag-vorhersage.de",{"children":["$","a",null,{"href":"https://spieltag-vorhersage.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Spieltag Vorhersage"}]}],["$","li","https://aufsteiger-prognose.de",{"children":["$","a",null,{"href":"https://aufsteiger-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Aufsteiger Prognose"}]}],["$","li","https://derby-analyse.de",{"children":["$","a",null,{"href":"https://derby-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Derby Analyse"}]}],["$","li","https://torjaeger-ranking.de",{"children":["$","a",null,{"href":"https://torjaeger-ranking.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Torjäger Ranking"}]}],["$","li","https://trainerwechsel-analyse.de",{"children":["$","a",null,{"href":"https://trainerwechsel-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Trainerwechsel Analyse"}]}],["$","li","https://talente-radar.de",{"children":["$","a",null,{"href":"https://talente-radar.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Talente Radar"}]}],["$","li","https://champions-league-analyse.de",{"children":["$","a",null,{"href":"https://champions-league-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Champions League Analyse"}]}],["$","li","https://europa-league-prognose.de",{"children":["$","a",null,{"href":"https://europa-league-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Europa League Prognose"}]}],["$","li","https://em-prognose.de",{"children":["$","a",null,{"href":"https://em-prognose.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"EM Prognose"}]}],["$","li","https://dfb-pokal-analyse.de",{"children":["$","a",null,{"href":"https://dfb-pokal-analyse.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"DFB Pokal Analyse"}]}],["$","li","https://wm-vorhersagen.de",{"children":["$","a",null,{"href":"https://wm-vorhersagen.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"WM Vorhersagen"}]}],["$","li","https://polymarket-alternative.de",{"children":["$","a",null,{"href":"https://polymarket-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Alternative"}]}],["$","li","https://polymarket-deutschland.de",{"children":["$","a",null,{"href":"https://polymarket-deutschland.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Polymarket Deutschland"}]}],["$","li","https://kalshi-alternative.de",{"children":["$","a",null,{"href":"https://kalshi-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Kalshi Alternative"}]}],["$","li","https://prediction-market-guide.de",{"children":["$","a",null,{"href":"https://prediction-market-guide.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Guide"}]}],["$","li","https://prediction-market-vergleich.de",{"children":["$","a",null,{"href":"https://prediction-market-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prediction Market Vergleich"}]}],["$","li","https://prognosemarkt.org",{"children":["$","a",null,{"href":"https://prognosemarkt.org","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Prognosemarkt"}]}],["$","li","https://mein-prognosemarkt.de",{"children":["$","a",null,{"href":"https://mein-prognosemarkt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Mein Prognosemarkt"}]}],["$","li","https://vorhersage-markt.de",{"children":["$","a",null,{"href":"https://vorhersage-markt.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Vorhersage Markt"}]}],["$","li","https://slay-cicd.github.io/fussball-finanzen",{"children":["$","a",null,{"href":"https://slay-cicd.github.io/fussball-finanzen","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Finanzen"}]}],["$","li","https://fussball-trading.de",{"children":["$","a",null,{"href":"https://fussball-trading.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Trading"}]}],["$","li","https://fussball-quoten.de",{"children":["$","a",null,{"href":"https://fussball-quoten.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Fußball Quoten"}]}],["$","li","https://wettmarkt-vergleich.de",{"children":["$","a",null,{"href":"https://wettmarkt-vergleich.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Wettmarkt Vergleich"}]}],["$","li","https://sportwetten-alternative.de",{"children":["$","a",null,{"href":"https://sportwetten-alternative.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Sportwetten Alternative"}]}]]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"text-xs font-semibold tracking-[0.1em] uppercase mb-3","style":{"color":"#9CA3AF"},"children":"Rechtliches"}],["$","ul",null,{"className":"space-y-2","children":[["$","li",null,{"children":["$","$L6",null,{"href":"/impressum","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Impressum"}]}],["$","li",null,{"children":["$","$L6",null,{"href":"/datenschutz","className":"text-xs hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#6B7280"},"children":"Datenschutz"}]}]]}]]}]]}],["$","div",null,{"className":"divider mb-6"}],["$","div",null,{"className":"flex flex-col sm:flex-row items-center justify-between gap-3","children":[["$","p",null,{"className":"text-xs","style":{"color":"#9CA3AF"},"children":["© ",2026," ","SLAY GmbH",". Alle Rechte vorbehalten."]}],["$","p",null,{"className":"text-xs text-center","style":{"color":"#9CA3AF"},"children":"18+ | Glücksspiel kann süchtig machen. Spiel verantwortungsbewusst."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"text-xs font-medium hover:text-[#15803d] transition-colors duration-200","style":{"color":"#16a34a"},"children":"atlasmarkets.de"}]]}]]}]}]]}]}]]}]]}],{"children":["blog",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","torwart-statistiken-gsae-analyse","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",["$","$L8",null,{"children":"$L9"}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","wyF5X7HCs8igXTP24KlM9",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],null]}],false]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+12:"$Sreact.suspense"
+13:I[1534,[],"AsyncMetadata"]
+9:["$","$12",null,{"fallback":null,"children":["$","$L13",null,{"promise":"$@14"}]}]
+c:null
+16:I[7191,["235","static/chunks/235-60f7bddebd3db3cc.js","953","static/chunks/app/blog/%5Bslug%5D/page-bdbb613691bd50ee.js"],"default"]
+15:T2591,<h2>Warum Torwart-Statistiken so lange vernachlässigt wurden</h2>
+<p>Lange Zeit beschränkte sich die Torwart-Statistik auf eine simple Zahl: Gegentore. Je weniger, desto besser. Doch diese Sichtweise ist statistisch nahezu wertlos – sie vermischt Torwart-Leistung mit Abwehr-Qualität, Gegner-Stärke und purer Zufallsvarianz.</p>
+<p>Erst mit <strong>Post-Shot Expected Goals (PSxG)</strong> und dem daraus abgeleiteten <strong>Goals Saved Above Expected (GSAE)</strong> haben wir Werkzeuge, die Torwart-Leistung wirklich isolieren. Für Prediction-Trader auf <a href="https://atlasmarkets.de">Atlas Markets</a> ist das eine der wertvollsten Metriken überhaupt – weil Torwart-Verletzungen und -Wechsel zu den preisbewegendsten Ereignissen in Fußball-Märkten gehören.</p>
+<hr>
+<h2>PSxG: Was passiert nach dem Schuss?</h2>
+<p>Standard-xG bewertet Chancen <em>vor</em> dem Schuss – Distanz, Winkel, Situation. <strong>Post-Shot xG (PSxG)</strong> geht weiter und bewertet den Schuss selbst: Wohin zielt er? Wie hart ist er? Wie schwer ist er für den Torwart zu halten?</p>
+<p>Ein Schuss in den Winkel aus 20 Metern hat ein Standard-xG von ~0,08 – aber ein PSxG von vielleicht 0,45, weil er unhaltbar platziert ist. Ein mittig platzierter Schuss aus gleicher Distanz hat PSxG von ~0,02.</p>
+<h3>PSxG-Quellen und Berechnung</h3>
+<p>PSxG-Modelle werden von Datenfirmen wie StatsBomb oder Opta auf Basis von tausenden historischen Schüssen trainiert. Sie berücksichtigen:</p>
+<ul>
+<li>Schusskoordinate (x,y,z)</li>
+<li>Schussgeschwindigkeit (wo verfügbar)</li>
+<li>Ballflugkurve (Topspin, Effet)</li>
+<li>Torwart-Position zur Schusszeit</li>
+<li>Körperteil des Schützen</li>
+</ul>
+<p>Der Wert liegt typischerweise zwischen 0 und 1 – und ist direkt als Haltbarkeits-Wahrscheinlichkeit zu lesen.</p>
+<hr>
+<h2>GSAE: Der eigentliche Torwart-Mehrwert</h2>
+<p><strong>Goals Saved Above Expected (GSAE)</strong> ist die zentrale Kennzahl:</p>
+<pre><code>GSAE = PSxGA (erwartete Gegentore) − tatsächliche Gegentore
+
+Positiver GSAE → Torwart besser als erwartet
+Negativer GSAE → Torwart schlechter als erwartet
+</code></pre>
+<h3>Was sind gute GSAE-Werte?</h3>
+<p>Über eine vollständige Bundesliga-Saison (34 Spiele):</p>
+<table>
+<thead>
+<tr>
+<th>GSAE-Wert</th>
+<th>Torwart-Qualität</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>> +8</td>
+<td>Weltklasse (Manuel Neuer-Saisons)</td>
+</tr>
+<tr>
+<td>+4 bis +8</td>
+<td>Top-Bundesliga-Niveau</td>
+</tr>
+<tr>
+<td>+1 bis +4</td>
+<td>Überdurchschnittlich</td>
+</tr>
+<tr>
+<td>-1 bis +1</td>
+<td>Ligadurchschnitt</td>
+</tr>
+<tr>
+<td>-1 bis -4</td>
+<td>Unterdurchschnittlich</td>
+</tr>
+<tr>
+<td>&#x3C; -4</td>
+<td>Klare Schwäche – Abstiegs-Gefährdung</td>
+</tr>
+</tbody>
+</table>
+<h3>Wichtig: GSAE über mehrere Saisons</h3>
+<p>Einzel-Saison-GSAE hat erhebliche Varianz. Ein Torwart mit GSAE von +7 in einer Saison könnte im nächsten Jahr bei +2 liegen – ohne schlechter geworden zu sein. Erst über 2-3 Saisons stabilisiert sich GSAE als zuverlässiger Qualitätsindikator.</p>
+<p><strong>Faustregel:</strong> Traue GSAE erst, wenn der Stichprobenumfang > 800 PSxG-Schüsse (typisch nach ~1,5 Saisons).</p>
+<hr>
+<h2>Bundesliga-Torwart-Analyse: Die Hierarchie</h2>
+<p>Historisch haben in der Bundesliga einige wenige Torhüter konstant positive GSAE gezeigt:</p>
+<p><strong>Nachhaltig positive GSAE</strong> (über mehrere Saisons):</p>
+<ul>
+<li>Manuel Neuer (Bayern) – der Goldstandard für Jahrzehnte</li>
+<li>Lukáš Hrádecký (Leverkusen) – unterschätzte Konstanz</li>
+<li>Gregor Kobel (Dortmund) – sehr solide seit Transfer</li>
+<li>Peter Gulacsi (Leipzig) – guter Saison-Schnitt</li>
+</ul>
+<p><strong>Variable GSAE</strong> (Qualitätsschwankungen):</p>
+<ul>
+<li>Viele Bundesliga-Keeper zeigen hier große Jahres-Varianz</li>
+<li>Besonders auffällig nach Verletzungen oder langen Verletzungspausen</li>
+</ul>
+<p><strong>Systematisch negativ</strong> (Namen ändern sich, das Muster bleibt):</p>
+<ul>
+<li>Bestimmte Abstiegskandidaten-Keeper, die günstig verpflichtet wurden</li>
+<li>Junge Bundesliga-Debütanten in ersten vollen Saisons</li>
+</ul>
+<hr>
+<h2>Torwart-Verletzungen: Der größte Markt-Mover</h2>
+<p>Für Prediction-Trader auf <a href="https://atlasmarkets.de">Atlas Markets</a> ist die wichtigste praktische Erkenntnis aus GSAE:</p>
+<p><strong>Torwart-Verletzungen sind systematisch unterbewertet.</strong></p>
+<p>Warum? Weil der Markt Torwart-Qualität kaum differenziert. Wenn Manuel Neuer oder ein anderer Top-GSAE-Keeper ausfällt, wird der Markt oft nur marginal angepasst – obwohl der tatsächliche Effekt im Schnitt <strong>+0,8 bis +1,2 Gegentore pro Spiel</strong> betragen kann.</p>
+<h3>Wie du einen Torwart-Verletzungs-Edge findest</h3>
+<p><strong>Schritt 1: GSAE des Stammtorhüters kennen</strong>
+Suche auf FBRef.com den aktuellen GSAE des Teams. Ist er signifikant positiv (> +3 auf Saisonbasis)? Dann ist seine Verletzung ein echtes Signal.</p>
+<p><strong>Schritt 2: Qualität des Ersatztorhüters einschätzen</strong>
+Hat der Ersatz Bundesliga-Erfahrung? Gibt es GSAE-Daten aus früheren Einsätzen? Ein Keeper aus der zweiten Mannschaft ohne Bundesliga-GSAE-Daten ist ein erhebliches Risiko.</p>
+<p><strong>Schritt 3: Betroffene Spiele identifizieren</strong>
+Welche Spiele fallen in die Verletzungsphase? Sind es offensiv starke Gegner (hohe xG gegen)? Dann ist der Effekt der Torwart-Schwäche größer.</p>
+<p><strong>Schritt 4: Marktpreis prüfen</strong>
+Hat der Markt auf Atlas Markets die Verletzung eingepreist? Oft nicht vollständig – besonders bei wenig prominenten Keepern (Nummer 2, Drittligisten-Aufsteiger).</p>
+<hr>
+<h2>Weitere wichtige Torwart-Metriken</h2>
+<h3>Haltequote vs. PSxG-Haltequote</h3>
+<p>Die klassische <strong>Haltequote</strong> (Saves ÷ Schüsse aufs Tor) ist fast wertlos ohne Kontext. Relevanter:</p>
+<pre><code>PSxG-Haltequote = Tatsächliche Saves ÷ Erwartete Gegentore (PSxGA)
+</code></pre>
+<p>Ein Torwart mit 75% Haltequote klingt gut. Aber wenn seine PSxG-Haltequote nur 68% beträgt (weil er von seinen Schussqualitäten her schlechter positioniert war), ist das weniger beeindruckend.</p>
+<h3>Reflexe vs. Positionsspiel</h3>
+<p>Moderne Torwart-Analyse unterscheidet:</p>
+<ul>
+<li><strong>Reflex-GSAE</strong>: Bei Schüssen mit sehr kurzer Reaktionszeit (&#x3C; 0,3 Sekunden)</li>
+<li><strong>Positions-GSAE</strong>: Bei Schüssen mit ausreichend Reaktionszeit</li>
+</ul>
+<p>Ein Torwart mit hohem Reflexwert ist schwer zu ersetzen (Athletik-Merkmal). Einer mit hohem Positions-GSAE ist oft durch taktisches Coaching zu verbessern.</p>
+<h3>Sweep-Keeper-Statistiken</h3>
+<p>Das moderne Torwart-Bild umfasst auch das Spiel außerhalb des Tores:</p>
+<ul>
+<li><strong>Claimed Crosses</strong>: Wie viele Flanken holt der Keeper heraus? (Normiert durch Kreuz-Versuche)</li>
+<li><strong>Defensiv-Aktionen außerhalb der Box</strong>: Relevant für Hochpressenden Spielstil</li>
+<li><strong>Passquote und Reichweite</strong>: Für Aufbauquali-Analyse</li>
+</ul>
+<p>Manuel Neuers "Sweeper-Keeper"-Stil hat diese Kategorie bekannt gemacht. Relevant auf Atlas: Teams die auf Sweeper-Keeper setzen, haben bei Keeper-Ausfällen oft doppelte Probleme (Abwehr + Aufbau).</p>
+<hr>
+<h2>GSAE und Expected Points: Der Gesamtzusammenhang</h2>
+<p>Wie viel ist ein guter Torwart wirklich wert in Punkten?</p>
+<p>Grobe Umrechnung auf Basis historischer Bundesliga-Daten:</p>
+<pre><code>Punkte-Impact = GSAE × 0,8
+</code></pre>
+<p>(Weil nicht jedes verhinderte Tor auch zu einem Punkte-Gewinn führt – Kontextabhängig)</p>
+<p>Ein Torwart mit GSAE = +8 ist demnach für ~6 zusätzliche Punkte pro Saison verantwortlich. Das ist der Unterschied zwischen Platz 6 und Platz 3 – oder zwischen sicherem Abstieg und Klassenerhalt.</p>
+<p>Auf Spielebene:</p>
+<table>
+<thead>
+<tr>
+<th>Torwart-Klasse</th>
+<th>Expected Goals Against Δ</th>
+<th>Punkte-Δ pro Spiel</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Top GSAE vs. Liga-Durchschnitt</td>
+<td>-0,25 xGA pro Spiel</td>
+<td>+0,18 Punkte</td>
+</tr>
+<tr>
+<td>Liga-Durchschnitt vs. Schwacher Keeper</td>
+<td>+0,35 xGA pro Spiel</td>
+<td>-0,22 Punkte</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2>Datenquellen für Torwart-Statistiken</h2>
+<p><strong>FBRef.com</strong> (Empfehlung für Einsteiger):</p>
+<ul>
+<li>PSxG und GSAE für alle Top-5-Ligen</li>
+<li>Aufschlüsselung nach Schusstypen</li>
+<li>Historische Daten ab 2017/18</li>
+</ul>
+<p><strong>StatsBomb</strong> (Profis):</p>
+<ul>
+<li>Detaillierteste Torwart-Daten</li>
+<li>Sweep-Keeper-Metriken</li>
+<li>Auf Einzelaktion-Ebene auswertbar</li>
+</ul>
+<p><strong>Transfermarkt.de</strong> (für Marktwert-Korrelation):</p>
+<ul>
+<li>Interessant: GSAE vs. Marktwert-Korrelation ist überraschend schwach</li>
+<li>Viele unterschätzte Keeper haben hohen GSAE bei moderatem Marktwert</li>
+</ul>
+<hr>
+<h2>Fazit: Torwart-Daten sind dein versteckter Edge</h2>
+<p>GSAE und PSxG haben die Torwart-Analyse transformiert. Was früher als unquantifizierbares "Gefühl" galt – ein Keeper der "über sich hinauswächst" oder "sicher und ruhig wirkt" – ist heute messbar.</p>
+<p>Für Prediction-Trader auf <strong><a href="https://atlasmarkets.de">Atlas Markets</a></strong> sind Torwart-Metriken besonders wertvoll, weil:</p>
+<ol>
+<li>Torwart-Verletzungen kurzfristig kommen und selten vollständig eingepreist werden</li>
+<li>Die meisten Marktteilnehmer keinen GSAE-Vergleich kennen</li>
+<li>Der Effekt auf Tore und Punkte statistisch stabil und substanziell ist</li>
+</ol>
+<p>Wer Manuel Neuers Saison-GSAE kennt – und weiß, was sein Backup kostet – handelt informierter als 95% der Marktteilnehmer.</p>
+7:[["$","div",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pt-[100px] pb-10","children":[["$","nav",null,{"className":"flex items-center gap-2 text-xs mb-10","aria-label":"Breadcrumb","style":{"color":"#9CA3AF"},"children":[["$","$L6",null,{"href":"/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Fußball Statistik"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","$L6",null,{"href":"/blog/","className":"hover:text-[#16a34a] transition-colors duration-200","children":"Artikel"}],["$","span",null,{"aria-hidden":"true","children":"/"}],["$","span",null,{"className":"truncate max-w-[200px]","style":{"color":"#6B7280"},"children":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}]]}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","torwart",{"className":"tag-pill","children":"torwart"}],["$","span","GSAE",{"className":"tag-pill","children":"GSAE"}],["$","span","bundesliga",{"className":"tag-pill","children":"bundesliga"}]]}],["$","h1",null,{"className":"font-serif text-[2.25rem] sm:text-[2.75rem] font-bold tracking-tight leading-[1.2] mb-6","style":{"color":"#1A1A1A"},"children":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase mb-8","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit",[["$","span",null,{"className":"mx-2","children":"·"}],"Redaktion"]]}],["$","div",null,{"className":"divider"}]]}],["$","article",null,{"className":"max-w-[680px] mx-auto px-5 sm:px-8 pb-20","children":[["$","p",null,{"className":"text-[1.125rem] leading-relaxed mb-10 border-l-[3px] border-[#16a34a] pl-5","style":{"color":"#6B7280","fontFamily":"var(--font-serif, Georgia, serif)","fontStyle":"italic"},"children":"Goals Saved Above Expected (GSAE) und Post-Shot xG revolutionieren die Torwart-Analyse. Wir erklären, welche Keeper-Statistiken wirklich aussagekräftig sind – und wie sie Marktpreise auf Atlas Markets beeinflussen."}],["$","div",null,{"className":"article-prose","dangerouslySetInnerHTML":{"__html":"$15"}}],["$","div",null,{"className":"mt-14 divider"}],["$","div",null,{"className":"mt-10 rounded-lg p-8 text-center border border-[#E5E5E0]","style":{"backgroundColor":"#F3F3EE"},"children":[["$","p",null,{"className":"font-serif text-[1.125rem] font-semibold mb-2","style":{"color":"#1A1A1A"},"children":"Bereit, dein Wissen einzusetzen?"}],["$","p",null,{"className":"text-sm mb-6","style":{"color":"#6B7280"},"children":"Auf Atlas Markets kannst du auf Fußball-Prediction Markets handeln."}],["$","a",null,{"href":"https://atlasmarkets.de","target":"_blank","rel":"noopener noreferrer","className":"btn-primary","children":"Zu Atlas Markets →"}]]}]]}],["$","section",null,{"className":"max-w-[1100px] mx-auto px-5 sm:px-8 pb-24","children":[["$","$L16",null,{"children":[["$","div",null,{"className":"divider mb-12"}],["$","div",null,{"className":"flex items-end justify-between mb-10","children":[["$","h2",null,{"className":"font-serif text-[1.5rem] font-bold tracking-tight","style":{"color":"#1A1A1A"},"children":"Ähnliche Artikel"}],["$","$L6",null,{"href":"/blog/","className":"text-sm text-[#16a34a] hover:text-[#15803d] transition-colors duration-200","children":"Alle Artikel →"}]]}]]}],["$","$L16",null,{"stagger":true,"children":["$","div",null,{"className":"grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-x-10 gap-y-10","children":[["$","article","bundesliga-tordifferenz-tabellenplatz-korrelation",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/bundesliga-tordifferenz-tabellenplatz-korrelation/","className":"group block","aria-label":"Artikel lesen: Tordifferenz und Tabellenplatz: Die stärkste Korrelation im Bundesliga-Fußball","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","bundesliga",{"className":"tag-pill","children":"bundesliga"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Tordifferenz und Tabellenplatz: Die stärkste Korrelation im Bundesliga-Fußball"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Kein Faktor sagt den Bundesliga-Tabellenplatz am Saisonende besser vorher als die Tordifferenz – nicht mal Punkte. Wir erklären warum, und wie Prediction-Trader das auf Atlas Markets nutzen können."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}],["$","article","expected-points-tabellen-luegen",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/expected-points-tabellen-luegen/","className":"group block","aria-label":"Artikel lesen: Expected Points (xPTS): Warum die Bundesliga-Tabelle oft lügt","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","statistik",{"className":"tag-pill","children":"statistik"}],["$","span","expected points",{"className":"tag-pill","children":"expected points"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Expected Points (xPTS): Warum die Bundesliga-Tabelle oft lügt"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"Die offizielle Bundesliga-Tabelle zeigt Ergebnisse – nicht Leistungen. Expected Points (xPTS) deckt auf, welche Teams übersportlich gut abschneiden und welche auf eine Regression warten. Ideal für Prediction-Market-Analyse."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}],["$","article","pressing-statistiken-ppda-analyse",{"className":"border-b border-[#E5E5E0] pb-8","children":["$","$L6",null,{"href":"/blog/pressing-statistiken-ppda-analyse/","className":"group block","aria-label":"Artikel lesen: Pressing-Statistiken im Fußball: PPDA, Gegenpressing und was die Daten wirklich sagen","children":[["$","div",null,{"className":"flex flex-wrap gap-2 mb-3","children":[["$","span","taktik",{"className":"tag-pill","children":"taktik"}],["$","span","pressing",{"className":"tag-pill","children":"pressing"}]]}],["$","h3",null,{"className":"font-serif text-[1.25rem] font-bold leading-snug mb-2 group-hover:text-[#16a34a] transition-colors duration-200","style":{"color":"#1A1A1A"},"children":"Pressing-Statistiken im Fußball: PPDA, Gegenpressing und was die Daten wirklich sagen"}],["$","p",null,{"className":"text-[0.9375rem] leading-relaxed line-clamp-3 mb-4","style":{"color":"#6B7280"},"children":"PPDA, Pressing-Intensität, Gegenpressing-Effizienz: Wir erklären die wichtigsten Statistiken rund ums Pressing – und wie du sie für präzisere Vorhersagen auf Atlas Markets nutzt."}],["$","p",null,{"className":"text-xs font-medium tracking-wide uppercase","style":{"color":"#9CA3AF"},"children":["17. April 2026",["$","span",null,{"className":"mx-2","children":"·"}],6," Min. Lesezeit"]}]]}]}]]}]}]]}]]
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+14:{"metadata":[["$","title","0",{"children":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst | Fußball Statistik"}],["$","meta","1",{"name":"description","content":"Goals Saved Above Expected (GSAE) und Post-Shot xG revolutionieren die Torwart-Analyse. Wir erklären, welche Keeper-Statistiken wirklich aussagekräftig sind – und wie sie Marktpreise auf Atlas Markets beeinflussen."}],["$","meta","2",{"name":"author","content":"SLAY GmbH"}],["$","meta","3",{"name":"keywords","content":"Prediction Markets,Fußball Wetten,Sportwetten,Wettmarkt,Atlas Markets,Bundesliga"}],["$","meta","4",{"name":"creator","content":"SLAY GmbH"}],["$","meta","5",{"name":"publisher","content":"SLAY GmbH"}],["$","meta","6",{"name":"robots","content":"index, follow"}],["$","meta","7",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","link","8",{"rel":"canonical","href":"https://slay-cicd.github.io/fussball-statistik/blog/torwart-statistiken-gsae-analyse/"}],["$","meta","9",{"property":"og:title","content":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}],["$","meta","10",{"property":"og:description","content":"Goals Saved Above Expected (GSAE) und Post-Shot xG revolutionieren die Torwart-Analyse. Wir erklären, welche Keeper-Statistiken wirklich aussagekräftig sind – und wie sie Marktpreise auf Atlas Markets beeinflussen."}],["$","meta","11",{"property":"og:url","content":"https://slay-cicd.github.io/fussball-statistik/blog/torwart-statistiken-gsae-analyse/"}],["$","meta","12",{"property":"og:image","content":"https://slay-cicd.github.io/fussball-statistik/og-image.png"}],["$","meta","13",{"property":"og:image:width","content":"1200"}],["$","meta","14",{"property":"og:image:height","content":"630"}],["$","meta","15",{"property":"og:image:alt","content":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}],["$","meta","16",{"property":"og:type","content":"article"}],["$","meta","17",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","18",{"name":"twitter:title","content":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}],["$","meta","19",{"name":"twitter:description","content":"Goals Saved Above Expected (GSAE) und Post-Shot xG revolutionieren die Torwart-Analyse. Wir erklären, welche Keeper-Statistiken wirklich aussagekräftig sind – und wie sie Marktpreise auf Atlas Markets beeinflussen."}],["$","meta","20",{"name":"twitter:image","content":"https://slay-cicd.github.io/fussball-statistik/og-image.png"}],["$","meta","21",{"name":"twitter:image:width","content":"1200"}],["$","meta","22",{"name":"twitter:image:height","content":"630"}],["$","meta","23",{"name":"twitter:image:alt","content":"Torwart-Statistiken: GSAE, PSxG und warum dein Torwart mehr wert ist als du denkst"}]],"error":null,"digest":"$undefined"}
+e:{"metadata":"$14:metadata","error":null,"digest":"$undefined"}
